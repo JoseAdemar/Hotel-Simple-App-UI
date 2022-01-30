@@ -1,0 +1,12 @@
+/*align-items-center
+col mx-auto text-center*/
+.letRound img{
+    margin-top: 2%;
+    width: 500px;
+    height: 500px;
+    background-color: #000;
+    color: #FFF;
+  
+    /* now the magic */
+    border-radius: 50%;
+}

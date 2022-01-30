@@ -1,0 +1,36 @@
+/*
+ This css change the background-color from the side sidebar
+ to come back to the original it's necessary just to remove and add
+ the sb-sidenav-dark on componente sidebar
+*/
+.nav{
+    background-color:rgb(117, 129, 129);
+}
+.sb-sidenav{
+    background-color:rgb(117, 129, 129);
+}
+ 
+.accordion{
+    background-color:rgb(117, 129, 129);
+}
+
+.sb-sidenav-dark{
+    background-color:rgb(117, 129, 129);
+}
+
+/*
+ This css change the color of the titles of the sidebar and the background-color
+*/
+.changeColor a {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+.changeColor a:hover {
+    color: rgb(184, 226, 250);
+    background-color: black;
+}
+
+.sb-nav-link-icon {
+    color: azure;
+}

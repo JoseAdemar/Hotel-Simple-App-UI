@@ -1,0 +1,6 @@
+/*This css is responsible to change the background-color from the navbar
+but for that it's necessary to remove navbar-dark bg-dark from the template*/
+.sb-topnav{
+    background-color: rgb(75, 79, 82);
+}
+
